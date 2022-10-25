@@ -1,0 +1,1 @@
+# Integral-Numerik-Dengan-Metode-Reimann-Dan-Trapezoid
